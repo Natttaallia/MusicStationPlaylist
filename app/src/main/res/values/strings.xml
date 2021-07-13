@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab4Kulbaka</string>
+    <string name="data_item">Виконавець: %1$s, Композиція: %2$s, Час: %3$s</string>
+    <string name="bad_connection_msg">Запуск в автономному режимі (доступний тільки перегляд внесених раніше записів)</string>
+</resources>
